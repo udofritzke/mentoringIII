@@ -7,7 +7,7 @@ public class Principal {
          Veiculo v2 = new Veiculo("CDE-4321", 50000);
                  
          
-         v.setPlaca("ABC-4444");
+         v.setPlaca("ABC-4433");
          
          Estrada e = new Estrada("Av. João Pinheiro");
          Estrada e2 = new Estrada("Rua Marechal");
