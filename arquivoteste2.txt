@@ -1,1 +1,1 @@
-teste de segundo conteúdo git, mondificado para pull, duas vezes
+teste para falha de merge, mondificado para pull, duas vezes
